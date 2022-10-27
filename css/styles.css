@@ -1,0 +1,26 @@
+body{
+  background-color: #BAD1C2 ;
+}
+hr{
+  border-style: none ;
+  border-top-style: dotted ;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+h1{
+  color: black;
+}
+h3{
+  color: black;
+}
+
+.icon:hover{
+  background-color: #B8E8FC ;
+}
+
+.name{
+  color: black ;
+}
